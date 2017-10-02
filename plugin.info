@@ -1,0 +1,9 @@
+{
+  "title": "$:/plugins/stevenjackson/markdown-it",
+  "description": "Enable markdown-it (with GFM) for tiddlywiki",
+  "author": "stevenjackson",
+  "version": "0.0.1",
+  "core-version": ">=5.0.8",
+  "source": "https://github.com/stevenjackson/markdown-it",
+  "plugin-type": "plugin"
+}

@@ -1,0 +1,16 @@
+{
+  "tiddlers": [{
+    "file": "markdown-it.min.js",
+      "fields": {
+        "type": "application/javascript",
+        "title": "$:/plugins/stevenjackson/markdown-it/markdown-it.min.js",
+        "module-type": "library"
+      }
+  }, {
+    "file": "LICENSE",
+      "fields": {
+        "type": "text/plain",
+        "title": "$:/plugins/stevenjackson/markdown-it/license"
+      }
+  }]
+}
